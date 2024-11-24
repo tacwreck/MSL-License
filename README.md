@@ -1,8 +1,8 @@
 # MSL License (Modifiable Software License)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/license-MSL-blue" alt="MSL License">
-  <img src="https://img.shields.io/badge/version-0.0.1-brightgreen" alt="Version 0.0.1">
+  <img src="https://img.shields.io/badge/license-MSL-blue?style=plastic" alt="MSL License">
+  <img src="https://img.shields.io/badge/version-0.0.1-brightgreen?style=plastic" alt="Version 0.0.1">
 </p>
 
 The **MSL License** is a permissive open-source license that allows developers to freely modify, distribute, and use software with the following conditions:
